@@ -92,9 +92,10 @@ NBC News NOW
 CNN HEADLINES
 CNN
 BBC News
-
+FOX 4K
 Sky News International
 CNN Originals
+NHK World Japan
 The NBA Channel
 WOW – Women of Wrestling
 CNBC World
@@ -118,6 +119,10 @@ Dreamworks
 Euro Indie Music Chart TV
 Fashion TV
 MTV en español
+MTV Hits
+MTV Live
+MTV Live US
+MTV UK
 MTV Rock
 MTV Music Made in Spain
 MTV Flow Latino
@@ -125,8 +130,23 @@ MTV Party Music
 MTV Originals
 MTV Biggest Pop
 MTV Classic
+HBO Boxing
+HBO Comedy
+HBO Family
+HBO HD
+HBO Hits
+HBO Signature
+HBO West
+HBO Zone
+Hits Movies
 Red Bull TV
 HBO Family
+Paramount Network
+Paramount+ with Showtime
+Paramount+ with Showtime West
+howtime Showcase
+Showtime Next
+Showtime Extreme
 Cinemax
 HBO 2
 HBO HD
@@ -146,6 +166,14 @@ MTV Pluto TV
 Live Music
 BBC Travel
 Xplore
+Nat Geo Wild
+National Geographic Channel
 ESPN 1
 ESPN 2
+NBA TV - NBALP
+NBA TV HDTV
+NBA TV USA
 Ufc Figh Pass
+Discovery Asia
+Discovery Channel
+Discovery US
