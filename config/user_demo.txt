@@ -1,0 +1,124 @@
+📺央视频道,#genre#
+CCTV-1
+CCTV-2
+CCTV-3
+CCTV-4
+CCTV-5
+CCTV-5+
+CCTV-6
+CCTV-7
+CCTV-8
+CCTV-9
+CCTV-10
+CCTV-11
+CCTV-12
+CCTV-13
+CCTV-14
+CCTV-15
+CCTV-16
+CCTV-17
+CCTV-4K
+CCTV-8K
+CHC动作电影
+CHC家庭影院
+CHC影迷电影
+📡卫视频道,#genre#
+广东卫视
+浙江卫视
+湖南卫视
+北京卫视
+湖北卫视
+黑龙江卫视
+安徽卫视
+重庆卫视
+东方卫视
+东南卫视
+甘肃卫视
+广西卫视
+贵州卫视
+海南卫视
+河北卫视
+河南卫视
+吉林卫视
+江苏卫视
+江西卫视
+辽宁卫视
+内蒙古卫视
+宁夏卫视
+青海卫视
+山东卫视
+山西卫视
+陕西卫视
+四川卫视
+深圳卫视
+三沙卫视
+天津卫视
+西藏卫视
+新疆卫视
+云南卫视
+📡港澳台频道,#genre#
+美亚C+
+美亚电影
+翡翠台
+非凡新闻台
+AFC 亚洲旅游台
+CINEMAX
+HBO_HD
+HBO_HITS
+HBO亞洲
+Hollywood Movies
+TVB Entertainment
+TVBS News
+TVB翡翠台4K
+TW台视新闻
+三立新聞
+东森新闻
+东森电影
+中天新聞
+中视新闻
+亚洲旅游
+MTV Live
+凤凰中文
+凤凰资讯
+华视 CTS HD
+卫视中文台
+卫视电影台
+国家地理
+寰宇新聞
+📡国际频道,#genre#
+CNBC World
+Euro Indie Music Chart TV
+MNB World
+Al-Jazeera
+ABC News
+Animal Planet
+Axn HD
+BBC Earth HD
+BBC Earth Lifestyle
+BBC World News
+Bloomberg News
+Celestial Movies HD
+CNA
+CNBC World
+CNN International
+Discovery Asia
+Discovery HD
+Dreamworks
+Euro Indie Music Chart TV
+Fashion TV
+Fox News
+France 24 English
+HBO Family
+HBO HD
+HBO Hits
+HBO Signature
+Hits Movie
+Movies Now HD
+NatGeo HD
+NatGeo Wild HD
+NBT World
+NHK World
+Paramount Network
+Star Movies HD
+tvN Movie
+ABC News
