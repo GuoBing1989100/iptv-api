@@ -86,16 +86,27 @@ MTV Live
 国家地理
 寰宇新聞
 📡国际频道,#genre#
+ABC News
+ABC News Live
+NBC News NOW
+CNN HEADLINES
+CNN
+BBC News
+
+Sky News International
+CNN Originals
+The NBA Channel
+WOW – Women of Wrestling
 CNBC World
+Fox News
 Euro Indie Music Chart TV
 MNB World
 Al-Jazeera
 ABC News
 Animal Planet
 Axn HD
-BBC Earth HD
+BBC Earth
 BBC Earth Lifestyle
-BBC World News
 Bloomberg News
 Celestial Movies HD
 CNA
@@ -106,9 +117,18 @@ Discovery HD
 Dreamworks
 Euro Indie Music Chart TV
 Fashion TV
-Fox News
-France 24 English
+MTV en español
+MTV Rock
+MTV Music Made in Spain
+MTV Flow Latino
+MTV Party Music
+MTV Originals
+MTV Biggest Pop
+MTV Classic
+Red Bull TV
 HBO Family
+Cinemax
+HBO 2
 HBO HD
 HBO Hits
 HBO Signature
@@ -122,3 +142,10 @@ Paramount Network
 Star Movies HD
 tvN Movie
 ABC News
+MTV Pluto TV
+Live Music
+BBC Travel
+Xplore
+ESPN 1
+ESPN 2
+Ufc Figh Pass
