@@ -25,3 +25,8 @@ https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/
 https://raw.githubusercontent.com/wcb1969/iptv/refs/heads/main/108%E6%B8%AF%E5%8F%B0.txt
 https://raw.githubusercontent.com/wcb1969/iptv/refs/heads/main/108P3P%E5%8E%9F%E5%8A%9B%E6%BA%90.txt
 https://raw.githubusercontent.com/wcb1969/iptv/refs/heads/main/167%E5%8E%9F%E5%8A%9B%E6%BA%90P3P.txt
+https://raw.githubusercontent.com/vickdong1/DrewLive/refs/heads/main/DaddyLive.m3u8
+https://raw.githubusercontent.com/vickdong1/DrewLive/refs/heads/main/DrewAll.m3u8
+https://raw.githubusercontent.com/vickdong1/DrewLive/refs/heads/main/LGTV.m3u8
+https://raw.githubusercontent.com/Drewski2423/DrewLive/main/MergedPlaylist.m3u8、
+https://raw.githubusercontent.com/Desmond-Dong/IPTV/refs/heads/main/IPTV2.m3u
