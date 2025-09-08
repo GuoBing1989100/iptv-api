@@ -24,3 +24,6 @@ https://raw.githubusercontent.com/vickdong1/DrewLive/refs/heads/main/LGTV.m3u8
 https://raw.githubusercontent.com/Drewski2423/DrewLive/main/MergedPlaylist.m3u8、
 https://raw.githubusercontent.com/Desmond-Dong/IPTV/refs/heads/main/IPTV2.m3u
 https://raw.githubusercontent.com/vickdong1/DrewLive/refs/heads/main/DrewAll.m3u8
+https://raw.githubusercontent.com/Frankjin001/my-iptv-source/refs/heads/main/Adult.m3u
+https://raw.githubusercontent.com/Frankjin001/my-iptv-source/refs/heads/main/Adults.m3u
+https://raw.githubusercontent.com/vickdong1/adult/refs/heads/main/GAT.m3u
