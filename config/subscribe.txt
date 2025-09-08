@@ -28,3 +28,4 @@ https://raw.githubusercontent.com/Frankjin001/my-iptv-source/refs/heads/main/Adu
 https://raw.githubusercontent.com/Frankjin001/my-iptv-source/refs/heads/main/Adults.m3u
 https://raw.githubusercontent.com/vickdong1/adult/refs/heads/main/Adult.m3u
 https://raw.githubusercontent.com/vickdong1/adult/refs/heads/main/Adults.m3u
+https://raw.githubusercontent.com/vickdong1/adult/refs/heads/main/GAT.m3u
