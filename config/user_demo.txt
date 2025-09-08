@@ -87,11 +87,20 @@ MTV Live
 寰宇新聞
 📡国际频道,#genre#
 ABC News
+ABC (KABC) Los Angeles SD
+ABC (KABC) Los Angeles HD
 ABC News Live
 NBC News NOW
 CNN HEADLINES
 CNN
 BBC News
+BBC America East SD
+BBC America East HD
+Bloomberg TV USA SD
+Boomerang SD
+Boomerang HD
+Bravo USA Eastern Feed SD
+Bravo USA Eastern Feed HD
 FOX 4K
 Sky News International
 CNN Originals
