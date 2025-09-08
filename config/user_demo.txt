@@ -87,28 +87,27 @@ MTV Live
 寰宇新聞
 📡国际频道,#genre#
 ABC News
+ABC NY
+ACC NETWORK
 ABC (KABC) Los Angeles SD
 ABC (KABC) Los Angeles HD
 ABC News Live
 NBC News NOW
-CNN HEADLINES
+CBC News Network
 CNN
-BBC News
-BBC America East SD
-BBC America East HD
+HLN
+CNN INTERNATIONAL
+CNBC FHD
+BBC WORLD NEWS
 Bloomberg TV USA SD
 Boomerang SD
 Boomerang HD
+FOX News Channel
+Sky News International
 Bravo USA Eastern Feed SD
 Bravo USA Eastern Feed HD
 FOX 4K
-Sky News International
-CNN Originals
-NHK World Japan
 The NBA Channel
-WOW – Women of Wrestling
-CNBC World
-Fox News
 Euro Indie Music Chart TV
 MNB World
 Al-Jazeera
@@ -122,30 +121,18 @@ Celestial Movies HD
 CNA
 CNBC World
 CNN International
-Discovery Asia
-Discovery HD
 Dreamworks
 Euro Indie Music Chart TV
+BRAVO
 Fashion TV
-MTV en español
-MTV Hits
-MTV Live
-MTV Live US
-MTV UK
-MTV Rock
-MTV Music Made in Spain
-MTV Flow Latino
-MTV Party Music
-MTV Originals
-MTV Biggest Pop
+Fashion TV UHD
+MTV
 MTV Classic
-HBO Boxing
+MTV Live
+MTV2
+HBO
 HBO Comedy
 HBO Family
-HBO HD
-HBO Hits
-HBO Signature
-HBO West
 HBO Zone
 Hits Movies
 Red Bull TV
@@ -154,13 +141,22 @@ Paramount Network
 Paramount+ with Showtime
 Paramount+ with Showtime West
 howtime Showcase
-Showtime Next
+Showtime
+Showtime 2
 Showtime Extreme
-Cinemax
-HBO 2
-HBO HD
-HBO Hits
-HBO Signature
+Showtime Next
+Showtime Women
+SMITHSONIAN CHANNEL
+Sony Movie Channel
+AMC
+CINEMAX MOREMAX
+CINEMAX WEST
+CINEMAX EAST
+HBO
+HBO Comedy
+HBO Family
+HBO Zone
+HBO2
 Hits Movie
 Movies Now HD
 NatGeo HD
@@ -171,21 +167,38 @@ Paramount Network
 Star Movies HD
 tvN Movie
 ABC News
-MTV Pluto TV
-Live Music
 BBC Travel
-Xplore
 Nat Geo Wild
 National Geographic Channel
+TNT
 ESPN 1
 ESPN 2
-NBA TV - NBALP
-NBA TV HDTV
-NBA TV USA
+NBA TV
+NBA 1
+NBA 2
+NBA 3
+NBA 4
+NBA 5
+NBA 6
+NBA 7
+NBA 8
+NBA 9
+NBA 10
+NBA 11
+NBA 12
 Ufc Figh Pass
-Discovery Asia
 Discovery Channel
-Discovery US
+DISCOVERY FAMILY CHANNEL
+DISCOVERY LIFE
+Discovery Scienc
+National Geographic
+National Geographic Wild
+Animal Planet
+Paramount Network
+DISNEY CHANNEL
+DISNEY JR
+DISNEY XD
+PopTV
 松视1
 松视2
 松视3
