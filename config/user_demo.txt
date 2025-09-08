@@ -59,32 +59,18 @@ CHC影迷电影
 📡港澳台频道,#genre#
 美亚C+
 美亚电影
-翡翠台
-非凡新闻台
-AFC 亚洲旅游台
-CINEMAX
-HBO_HD
-HBO_HITS
-HBO亞洲
-Hollywood Movies
-TVB Entertainment
-TVBS News
-TVB翡翠台4K
-TW台视新闻
-三立新聞
-东森新闻
-东森电影
-中天新聞
-中视新闻
-亚洲旅游
-MTV Live
-凤凰中文
-凤凰资讯
-华视 CTS HD
-卫视中文台
-卫视电影台
-国家地理
-寰宇新聞
+澳门综艺
+TVBS新闻
+民视新闻 HD
+台视新闻 HD
+中视新闻 HD
+三立iNEWS
+寰宇新闻
+镜新闻Mnews
+中天新闻
+TVBS亞洲
+The K-POP
+時尚台FTV
 📡国际频道,#genre#
 ABC News
 ABC NY
