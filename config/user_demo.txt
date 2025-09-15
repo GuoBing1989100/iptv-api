@@ -73,13 +73,18 @@ The K-POP
 時尚台FTV
 📡国际频道,#genre#
 ABC News
+ABC News Live
 ABC NY
-ACC NETWORK
 ABC (KABC) Los Angeles SD
 ABC (KABC) Los Angeles HD
 ABC News Live
+BBC News
+BBC Drama
+BBC Earth
+BBC Home & Garden
 NBC News NOW
 CBC News Network
+CBC News
 CNN
 HLN
 CNN INTERNATIONAL
@@ -110,12 +115,15 @@ CNN International
 Dreamworks
 Euro Indie Music Chart TV
 BRAVO
+American Idol
+Dance Moms
 Fashion TV
 Fashion TV UHD
 MTV
 MTV Classic
 MTV Live
 MTV USA
+MTV Pluto TV
 HBO USA
 HBO Zone USA
 HBO2 USA
@@ -164,6 +172,7 @@ BBC Travel
 Nat Geo Wild
 National Geographic Channel
 TNT
+Red Bull TV
 ESPN 1
 ESPN 2
 NBA TV
