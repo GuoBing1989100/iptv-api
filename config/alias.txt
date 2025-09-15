@@ -28,6 +28,8 @@ CCTV-4欧洲,CCTV4欧洲,CCTV4欧洲咪咕
 CCTV-4K,CCTV4K,cctv4k_10m,CCTV4K超高清,CCTV-4K超高清,CCTV-4k高码,CCTV-4K广西,CCTV-4k浙江
 CCTV-8K,CCTV8K,CCTV8K 超高清,CCTV-8K超高清[3840*2160],cctv8k_120m,cctv8k_36m,CCTV8K超高清,CCTV-8k高码
 
+Kudog提供维护,
+
 兵器科技,CCTV兵器,CCTV兵器科技,CCTV-兵器科技,CCTV兵器科技HD
 第一剧场,CCTV第一剧场,CCTV-第一剧场,CCTV第一剧场HD,风云剧场,中国电影,CCTV电影轮播
 发现之旅,CCTV发现之旅,CCTV-发现之旅,中央新影-发现之旅
