@@ -115,7 +115,14 @@ Fashion TV UHD
 MTV
 MTV Classic
 MTV Live
-MTV2
+MTV USA
+HBO USA
+HBO Zone USA
+HBO2 USA
+HBO Signature USA
+HBO Latino USA
+HBO Family USA
+HBO Comedy USA
 HBO
 HBO Comedy
 HBO Family
