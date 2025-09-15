@@ -1,17 +1,5 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
-# https://cnb.cool/junchao.tang/llive/-/git/raw/main/电视.txt
-# https://judy.livednow.dpdns.org/ysp.m3u
-# https://9877.kstore.space/Live/live.m3u
-# https://wget.la/https://github.com/Kimentanm/aptv/raw/master/m3u/iptv.m3u
-# https://xn--pggp-rp5imh.v.nxog.top/m//tv/
-# http://gg.7749.org/z/0/dzh.txt
-# https://raw.githubusercontent.com/vickdong1/adult/refs/heads/main/Adult.m3u
-# https://raw.githubusercontent.com/vickdong1/adult/refs/heads/main/Adults.m3u
-# https://raw.githubusercontent.com/vickdong1/DrewLive/refs/heads/main/DaddyLiveRAW.m3u8
-# https://raw.githubusercontent.com/vickdong1/DrewLive/refs/heads/main/DrewAll.m3u8
-# https://web.banye.tech:7777/tvbus/yogurtTv.txt
-# http://1.94.31.214/live/livelite.txt
 
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
 https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt
